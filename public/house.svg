@@ -1,0 +1,379 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg2"
+    viewBox="0 0 464.77 428.81"
+    version="1.0"
+  >
+  <defs
+      id="defs4"
+    >
+    <linearGradient
+        id="linearGradient3314"
+      >
+      <stop
+          id="stop3316"
+          stop-color="#784421"
+          offset="0"
+      />
+      <stop
+          id="stop3318"
+          stop-color="#4d2c15"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient3250"
+      >
+      <stop
+          id="stop3252"
+          stop-color="#76705a"
+          offset="0"
+      />
+      <stop
+          id="stop3254"
+          stop-color="#c8c4b7"
+          stop-opacity="0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <radialGradient
+        id="radialGradient3041"
+        xlink:href="#linearGradient3314"
+        gradientUnits="userSpaceOnUse"
+        cy="684.27"
+        cx="397"
+        gradientTransform="matrix(.98328 0 .0000011864 1 -136.66 -330.78)"
+        r="12.253"
+    />
+    <linearGradient
+        id="linearGradient3055"
+        y2="600.11"
+        xlink:href="#linearGradient3250"
+        gradientUnits="userSpaceOnUse"
+        x2="467.01"
+        gradientTransform="translate(-142.27 -322.07)"
+        y1="600.11"
+        x1="447"
+    />
+    <linearGradient
+        id="linearGradient3058"
+        y2="705.35"
+        xlink:href="#linearGradient3314"
+        gradientUnits="userSpaceOnUse"
+        x2="347.56"
+        gradientTransform="translate(-142.27 -322.07)"
+        y1="654.96"
+        x1="397.95"
+    />
+    <linearGradient
+        id="linearGradient3062"
+        y2="721.74"
+        xlink:href="#linearGradient3314"
+        gradientUnits="userSpaceOnUse"
+        x2="339.53"
+        gradientTransform="translate(-142.27 -322.07)"
+        y1="659.02"
+        x1="402.24"
+    />
+    <linearGradient
+        id="linearGradient3065"
+        y2="632.59"
+        gradientUnits="userSpaceOnUse"
+        x2="400.55"
+        gradientTransform="translate(-142.27 -322.07)"
+        y1="633.76"
+        x1="356.49"
+      >
+      <stop
+          id="stop3196"
+          stop-color="#aca793"
+          offset="0"
+      />
+      <stop
+          id="stop3198"
+          stop-color="#aca793"
+          stop-opacity="0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient3074"
+        y2="651.36"
+        xlink:href="#linearGradient3250"
+        gradientUnits="userSpaceOnUse"
+        x2="437.5"
+        gradientTransform="translate(-142.27 -322.07)"
+        y1="634.14"
+        x1="500.19"
+    />
+    <linearGradient
+        id="linearGradient3077"
+        y2="626.81"
+        xlink:href="#linearGradient3250"
+        gradientUnits="userSpaceOnUse"
+        x2="299.37"
+        gradientTransform="translate(-142.27 -322.07)"
+        y1="607.73"
+        x1="228.16"
+    />
+  </defs
+  >
+  <path
+      id="path3284"
+      stroke-linejoin="round"
+      d="m376.35 358.31c-24.995-51.892-32.62-95.942-21.658-115.92 10.695-19.496 63.754 5.4789 83.506-26.734 19.47-31.76-31.67-193.86-214.54-194.81-180.36-0.937-214.33 167.06-199.53 195.75 14.543 28.2 63.723 7.2347 83.516 22.318 19.794 15.083 5.1119 83.528-15.336 123.81-20.194 39.783 75.405 49.962 147.04 49.019 71.635-0.94267 161.27-3.058 137-53.439z"
+      fill-rule="evenodd"
+      stroke="#000"
+      stroke-width="4"
+      fill="url(#linearGradient3077)"
+  />
+  <path
+      id="path3240"
+      stroke-linejoin="round"
+      d="m376.35 358.31c-24.995-51.892-32.62-95.942-21.658-115.92 10.695-19.496 63.754 5.4789 83.506-26.734 19.47-31.76-31.67-193.86-214.54-194.81-180.36-0.937-214.33 167.06-199.53 195.75 14.543 28.2 63.723 7.2347 83.516 22.318 19.794 15.083 5.1119 83.528-15.336 123.81-20.194 39.783 75.405 49.962 147.04 49.019 71.635-0.94267 161.27-3.058 137-53.439z"
+      fill-rule="evenodd"
+      stroke="#000"
+      stroke-width="4"
+      fill="url(#linearGradient3074)"
+  />
+  <path
+      id="path2383"
+      stroke-linejoin="round"
+      d="m376.35 358.31c-24.995-51.892-32.62-95.942-21.658-115.92 10.695-19.496 63.754 5.4789 83.506-26.734 19.47-31.76-31.67-193.86-214.54-194.81-180.36-0.937-214.33 167.06-199.53 195.75 14.543 28.2 63.723 7.2347 83.516 22.318 19.794 15.083 5.1119 83.528-15.336 123.81-20.194 39.783 75.405 49.962 147.04 49.019 71.635-0.94267 161.27-3.058 137-53.439z"
+      fill-rule="evenodd"
+      stroke="#f59f46"
+      fill="#f9b155"
+  />
+  <path
+      id="path2387"
+      stroke-linejoin="round"
+      d="m325.94 247.56c41.429-4.9576 98.515 1.7489 118.81-31.356 20.01-32.63-32.53-199.21-220.48-200.19-185.35-0.965-220.26 171.68-205.05 201.17 14.945 28.981 76.958 31.028 114.94 32.64 37.952 1.6102 150.99 2.6219 191.78-2.2594z"
+      fill-rule="evenodd"
+      stroke="#92410b"
+      stroke-width="2"
+      fill="#f48b47"
+  />
+  <path
+      id="path3159"
+      stroke-linejoin="round"
+      d="m233.54 298.63c-45.64 1.5738-57.527 81.727-56.276 110.95 16.792 1.0983 46.13 2.373 62.089 2.163 11.959-0.15738 39.886-1.0478 52.235-1.4897-2.2949-34.821-12.407-113.2-58.047-111.62z"
+      fill-rule="evenodd"
+      stroke="#000"
+      stroke-width="4"
+      fill="url(#linearGradient3065)"
+  />
+  <path
+      id="path3164"
+      stroke-linejoin="round"
+      d="m233.07 303.18c-37.01 1.2781-49.222 78.676-39.875 107.56 15.585 0.91366 31.383 1.1944 46.156 1 10.91-0.14358 22.22-0.29188 33.5-0.65625 11.543-25.143-3.3682-109.16-39.781-107.91z"
+      fill-rule="evenodd"
+      stroke="#000"
+      stroke-width="4"
+      fill="url(#linearGradient3062)"
+  />
+  <path
+      id="path3171"
+      stroke-linejoin="round"
+      d="m208.84 317.88 1.3971 93.63m24.769-108.31 0.22566 108.59m26.406-87.672-2.4071 87.313"
+      stroke="#000"
+      stroke-width="4"
+      fill="none"
+  />
+  <path
+      id="path3169"
+      stroke-linejoin="round"
+      d="m194.99 349.43 76.404-0.585 3.0487 13.709-81.962-1.4633 2.5093-11.661z"
+      fill-rule="evenodd"
+      stroke="#000"
+      stroke-width="4"
+      fill="url(#linearGradient3058)"
+  />
+  <path
+      id="path3226"
+      d="m290.96 315.66c6.0544 5.9272 45.118 0.58054 47.909-5.0052 2.8956-5.7955-5.528-39.251-31.852-36.354-26.064 2.8691-22.248 35.299-16.057 41.359z"
+      fill-rule="evenodd"
+      stroke="#000"
+      stroke-width="4"
+      fill="url(#linearGradient3055)"
+  />
+  <path
+      id="path3228"
+      d="m290.6 315.28c4.7402 4.6225 35.325 0.45275 37.51-3.9035 2.2671-4.5198-4.328-30.611-24.938-28.352-20.406 2.2376-17.419 27.529-12.572 32.255z"
+      fill-rule="evenodd"
+      stroke="#000"
+      stroke-width="4"
+      fill="#483e37"
+  />
+  <path
+      id="path3230"
+      d="m302.18 304.83c2.3049 2.2047 17.176 0.21595 18.239-1.8618 1.1023-2.1558-2.1044-14.6-12.126-13.522-9.9222 1.0672-8.4695 13.13-6.1129 15.384z"
+      fill-opacity=".39216"
+      fill="#fff"
+      fill-rule="evenodd"
+  />
+  <path
+      id="path3272"
+      d="m91.655 143.35a16.971 27.931 18.042 1 1 -32.272 -10.51 16.971 27.931 18.042 1 1 32.272 10.51z"
+      stroke="#b82c11"
+      fill="#f14c23"
+  />
+  <path
+      id="path3274"
+      d="m164.68 99.718a21.172 25.523 44.185 1 1 -31.88 -27.904 21.172 25.523 44.185 1 1 31.88 27.904z"
+      stroke="#b82c11"
+      fill="#f14c23"
+  />
+  <path
+      id="path3276"
+      d="m301.8 147.95a34.599 26.169 10.705 1 1 -65.775 9.9721 34.599 26.169 10.705 1 1 65.775 -9.9721z"
+      stroke="#b82c11"
+      fill="#f14c23"
+  />
+  <path
+      id="path3278"
+      d="m325.85 57.572a30.891 12.368 21.501 1 1 -41.75 4.819 30.891 12.368 21.501 1 1 41.75 -4.819z"
+      stroke="#b82c11"
+      fill="#f14c23"
+  />
+  <path
+      id="path3280"
+      d="m393.07 186.65a30.321 18.782 81.797 1 1 -34.264 -33.83 30.321 18.782 81.797 1 1 34.264 33.83z"
+      stroke="#b82c11"
+      fill="#f14c23"
+  />
+  <path
+      id="path3282"
+      d="m186.46 188.29a30.493 28.775 78.506 1 1 -53.051 22.638 30.493 28.775 78.506 1 1 53.051 -22.638z"
+      stroke="#b82c11"
+      fill="#f14c23"
+  />
+  <path
+      id="path3288"
+      d="m232.44 92.007a11.468 13.673 65.588 1 1 -26.053 -1.8747 11.468 13.673 65.588 1 1 26.053 1.8747z"
+      stroke="#b82c11"
+      fill="#f14c23"
+  />
+  <path
+      id="path3290"
+      d="m350.11 106.74a13.243 8.2028 55.427 0 1 -19.97 -6.5903 13.243 8.2028 55.427 1 1 19.97 6.5903z"
+      stroke="#b82c11"
+      fill="#f14c23"
+  />
+  <path
+      id="path3292"
+      d="m234.64 33.617a8.6113 34.906 85.789 1 1 -68.222 1.2551 8.6113 34.906 85.789 1 1 68.222 -1.2551z"
+      stroke="#b82c11"
+      fill="#f14c23"
+  />
+  <path
+      id="path3330"
+      stroke-linejoin="round"
+      d="m266.8 356.37a10.253 10.253 0 0 1 -20.506 0 10.253 10.253 0 1 1 20.506 0z"
+      stroke="#000"
+      stroke-width="4"
+      fill="url(#radialGradient3041)"
+  />
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Orange mushroom house</dc:title
+        >
+        <dc:date
+          >2013-09-25T12:41:35</dc:date
+        >
+        <dc:description
+          >Orange mushroom house</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/183884/orange-mushroom-house-by-pippi2011-183884</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Pippi2011</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >Orange mushroom house</rdf:li
+            >
+            <rdf:li
+              >free clip art</rdf:li
+            >
+            <rdf:li
+              >mushroom</rdf:li
+            >
+            <rdf:li
+              >mushroom house</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
