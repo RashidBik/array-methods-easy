@@ -1,26 +1,69 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@font-face {
+  font-family: "pacifico";
+  src: url('../fonts/Pacifico-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "spice";
+  src: url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Nothing You Could Do', cursive;
+  src: url('https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap');
+  font-weight: normal;
+  font-style: normal;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
-}
 
-* {
-  box-sizing: border-box;
-}
-
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
+@layer base {
+  main {
+      @apply rounded-lg p-2 h-[100vh] lg:h-[80vh] ;
+    }
+  .btn {
+      @apply border shadow px-2 rounded-md hover:shadow-md;
+    }
+  header {
+      @apply flex p-2 justify-between;
   }
-  body {
-    color: white;
-    background: black;
+  section {
+    @apply p-2 h-[83vh] lg:h-[80vh];
   }
+  footer {
+    @apply flex justify-around items-baseline py-2 h-[7vh];
+  }
+  h1 {
+    @apply text-[23px] font-black bg-gray-200 rounded my-4 text-center;
+  }
+  h2 {
+    @apply text-[16px] font-black text-red-900;
+  }
+  .arr {
+    @apply p-6 rounded-lg grid grid-cols-3 gap-6 items-center;
+  }
+  .container {
+    @apply text-left p-1 bg-gray-300;
+  }
+  .head {
+    @apply text-center text-blue-900 bg-gray-300;
+  }
+  .syntax {
+    @apply bg-yellow-500 rounded-lg p-4;
+  }
+  .shapes {
+    @apply text-[30px] md:text-[20px];
+  }
+  .usage {
+    @apply font-sans text-red-900;
+  }
+  .got {
+    @apply p-4 flex justify-end;
+  }
+
 }
