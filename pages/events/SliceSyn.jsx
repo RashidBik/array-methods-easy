@@ -13,7 +13,7 @@ const SliceSyn = () => {
         <div className='syntax'>
             <code className='font-black'>
             arr.slice(start, end) <br/>
-            Array.prototype.slice.call <code className='text-gray-500'>// array-like object</code>
+            Array.prototype.slice.call <code className='text-gray-500'>[// array-like object]</code>
             </code>
         </div>
         <div className='param mt-2'>
